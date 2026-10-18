@@ -19,16 +19,6 @@ A Power BI portfolio project demonstrating an executive-level, multi-function an
 4. **People / HR** — active headcount, hires, exits, attrition by department/job level/tenure/location.
 5. **Operations & Content** — viewing hours, completion efficiency, device mix, genre/content performance, cloud cost per watch hour.
 
-## Repository structure
-```text
-ott-platform-analytics/
-├── data/                  # Synthetic CSV datasets
-├── dax/measures.md        # Suggested DAX measures
-├── docs/                  # Executive summary and model documentation
-├── images/                # Add exported dashboard screenshots here
-├── powerbi/               # Power BI authoring guide / saved PBIP or PBIX
-└── README.md
-```
 
 ## Data files
 | File | Grain |
