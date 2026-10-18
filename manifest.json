@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-10-18",
+  "synthetic": true,
+  "rows": {
+    "Customers.csv": 1800,
+    "Plans.csv": 3,
+    "Subscriptions.csv": 1800,
+    "Billing.csv": 30393,
+    "ContentCatalog.csv": 250,
+    "ViewingEvents.csv": 16000,
+    "OperatingCosts.csv": 144,
+    "Employees.csv": 140,
+    "Date.csv": 1461
+  },
+  "files": [
+    "Customers.csv",
+    "Plans.csv",
+    "Subscriptions.csv",
+    "Billing.csv",
+    "ContentCatalog.csv",
+    "ViewingEvents.csv",
+    "OperatingCosts.csv",
+    "Employees.csv",
+    "Date.csv"
+  ]
+}

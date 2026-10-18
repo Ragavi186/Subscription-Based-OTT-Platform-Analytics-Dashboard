@@ -1,0 +1,145 @@
+CostID,CostMonth,Department,CostAmount,CostBehavior,RecordType
+OP00001,2024-01-01,Content Licensing,375692.61,Fixed,Forecast
+OP00002,2024-01-01,Technology & Cloud,161069.83,Fixed,Actual
+OP00003,2024-01-01,Marketing,225716.95,Variable,Actual
+OP00004,2024-01-01,Customer Support,83789.7,Variable,Forecast
+OP00005,2024-01-01,General & Administrative,120662.06,Fixed,Actual
+OP00006,2024-01-01,Payment Processing,55678.75,Fixed,Forecast
+OP00007,2024-02-01,Content Licensing,339552.42,Fixed,Actual
+OP00008,2024-02-01,Technology & Cloud,188429.36,Variable,Actual
+OP00009,2024-02-01,Marketing,211583.0,Variable,Actual
+OP00010,2024-02-01,Customer Support,104538.14,Variable,Actual
+OP00011,2024-02-01,General & Administrative,107629.63,Fixed,Forecast
+OP00012,2024-02-01,Payment Processing,53194.87,Variable,Actual
+OP00013,2024-03-01,Content Licensing,398959.22,Variable,Actual
+OP00014,2024-03-01,Technology & Cloud,183162.38,Fixed,Actual
+OP00015,2024-03-01,Marketing,183966.43,Variable,Actual
+OP00016,2024-03-01,Customer Support,87989.59,Fixed,Actual
+OP00017,2024-03-01,General & Administrative,124232.85,Fixed,Forecast
+OP00018,2024-03-01,Payment Processing,51625.47,Variable,Forecast
+OP00019,2024-04-01,Content Licensing,358719.83,Fixed,Actual
+OP00020,2024-04-01,Technology & Cloud,186505.48,Variable,Actual
+OP00021,2024-04-01,Marketing,197280.8,Variable,Actual
+OP00022,2024-04-01,Customer Support,102630.9,Variable,Forecast
+OP00023,2024-04-01,General & Administrative,106884.38,Fixed,Actual
+OP00024,2024-04-01,Payment Processing,63570.83,Variable,Actual
+OP00025,2024-05-01,Content Licensing,395648.53,Variable,Actual
+OP00026,2024-05-01,Technology & Cloud,173553.9,Fixed,Actual
+OP00027,2024-05-01,Marketing,171807.08,Variable,Forecast
+OP00028,2024-05-01,Customer Support,90622.17,Fixed,Actual
+OP00029,2024-05-01,General & Administrative,111164.14,Variable,Actual
+OP00030,2024-05-01,Payment Processing,53194.35,Fixed,Actual
+OP00031,2024-06-01,Content Licensing,427837.24,Fixed,Actual
+OP00032,2024-06-01,Technology & Cloud,132455.25,Variable,Forecast
+OP00033,2024-06-01,Marketing,228239.6,Variable,Forecast
+OP00034,2024-06-01,Customer Support,94262.27,Fixed,Forecast
+OP00035,2024-06-01,General & Administrative,117641.4,Variable,Forecast
+OP00036,2024-06-01,Payment Processing,61210.34,Fixed,Forecast
+OP00037,2024-07-01,Content Licensing,406249.85,Fixed,Actual
+OP00038,2024-07-01,Technology & Cloud,172714.58,Fixed,Actual
+OP00039,2024-07-01,Marketing,205278.27,Variable,Actual
+OP00040,2024-07-01,Customer Support,99676.89,Fixed,Actual
+OP00041,2024-07-01,General & Administrative,116898.92,Fixed,Actual
+OP00042,2024-07-01,Payment Processing,58461.68,Variable,Actual
+OP00043,2024-08-01,Content Licensing,418455.06,Variable,Actual
+OP00044,2024-08-01,Technology & Cloud,186199.05,Variable,Actual
+OP00045,2024-08-01,Marketing,202066.63,Variable,Forecast
+OP00046,2024-08-01,Customer Support,102673.58,Variable,Actual
+OP00047,2024-08-01,General & Administrative,97311.28,Variable,Actual
+OP00048,2024-08-01,Payment Processing,44346.51,Variable,Forecast
+OP00049,2024-09-01,Content Licensing,467455.91,Fixed,Actual
+OP00050,2024-09-01,Technology & Cloud,153762.68,Fixed,Actual
+OP00051,2024-09-01,Marketing,188543.24,Variable,Forecast
+OP00052,2024-09-01,Customer Support,101641.36,Fixed,Actual
+OP00053,2024-09-01,General & Administrative,118816.61,Variable,Actual
+OP00054,2024-09-01,Payment Processing,64263.03,Variable,Actual
+OP00055,2024-10-01,Content Licensing,379373.73,Fixed,Actual
+OP00056,2024-10-01,Technology & Cloud,200906.98,Fixed,Actual
+OP00057,2024-10-01,Marketing,233345.79,Variable,Forecast
+OP00058,2024-10-01,Customer Support,90682.36,Variable,Actual
+OP00059,2024-10-01,General & Administrative,112159.52,Variable,Actual
+OP00060,2024-10-01,Payment Processing,55787.05,Variable,Actual
+OP00061,2024-11-01,Content Licensing,430496.5,Variable,Actual
+OP00062,2024-11-01,Technology & Cloud,177310.15,Variable,Actual
+OP00063,2024-11-01,Marketing,163772.7,Variable,Forecast
+OP00064,2024-11-01,Customer Support,76837.61,Fixed,Forecast
+OP00065,2024-11-01,General & Administrative,109099.04,Fixed,Actual
+OP00066,2024-11-01,Payment Processing,59168.7,Variable,Forecast
+OP00067,2024-12-01,Content Licensing,433682.5,Variable,Actual
+OP00068,2024-12-01,Technology & Cloud,185564.34,Variable,Actual
+OP00069,2024-12-01,Marketing,209593.42,Variable,Forecast
+OP00070,2024-12-01,Customer Support,92340.64,Variable,Forecast
+OP00071,2024-12-01,General & Administrative,96769.21,Fixed,Forecast
+OP00072,2024-12-01,Payment Processing,67297.31,Fixed,Forecast
+OP00073,2025-01-01,Content Licensing,445169.2,Variable,Actual
+OP00074,2025-01-01,Technology & Cloud,197642.6,Variable,Actual
+OP00075,2025-01-01,Marketing,214683.95,Variable,Forecast
+OP00076,2025-01-01,Customer Support,94468.58,Variable,Actual
+OP00077,2025-01-01,General & Administrative,133168.52,Fixed,Actual
+OP00078,2025-01-01,Payment Processing,47200.16,Variable,Actual
+OP00079,2025-02-01,Content Licensing,417359.56,Variable,Actual
+OP00080,2025-02-01,Technology & Cloud,196916.72,Fixed,Actual
+OP00081,2025-02-01,Marketing,197361.72,Variable,Forecast
+OP00082,2025-02-01,Customer Support,104527.94,Variable,Actual
+OP00083,2025-02-01,General & Administrative,130680.4,Variable,Forecast
+OP00084,2025-02-01,Payment Processing,58864.67,Variable,Actual
+OP00085,2025-03-01,Content Licensing,416546.69,Variable,Forecast
+OP00086,2025-03-01,Technology & Cloud,188351.49,Variable,Forecast
+OP00087,2025-03-01,Marketing,158542.04,Variable,Actual
+OP00088,2025-03-01,Customer Support,84691.78,Fixed,Actual
+OP00089,2025-03-01,General & Administrative,118594.06,Fixed,Actual
+OP00090,2025-03-01,Payment Processing,59415.19,Variable,Forecast
+OP00091,2025-04-01,Content Licensing,417556.26,Variable,Actual
+OP00092,2025-04-01,Technology & Cloud,181503.91,Fixed,Forecast
+OP00093,2025-04-01,Marketing,214132.71,Variable,Actual
+OP00094,2025-04-01,Customer Support,112963.23,Fixed,Actual
+OP00095,2025-04-01,General & Administrative,104440.03,Variable,Actual
+OP00096,2025-04-01,Payment Processing,52400.55,Fixed,Actual
+OP00097,2025-05-01,Content Licensing,488457.02,Variable,Actual
+OP00098,2025-05-01,Technology & Cloud,209314.26,Variable,Actual
+OP00099,2025-05-01,Marketing,211603.73,Fixed,Actual
+OP00100,2025-05-01,Customer Support,120464.21,Variable,Actual
+OP00101,2025-05-01,General & Administrative,133785.16,Fixed,Actual
+OP00102,2025-05-01,Payment Processing,65923.36,Fixed,Actual
+OP00103,2025-06-01,Content Licensing,358965.03,Fixed,Forecast
+OP00104,2025-06-01,Technology & Cloud,207057.47,Variable,Actual
+OP00105,2025-06-01,Marketing,213196.73,Variable,Actual
+OP00106,2025-06-01,Customer Support,76018.04,Fixed,Actual
+OP00107,2025-06-01,General & Administrative,103015.04,Variable,Actual
+OP00108,2025-06-01,Payment Processing,46993.86,Variable,Forecast
+OP00109,2025-07-01,Content Licensing,493679.11,Variable,Forecast
+OP00110,2025-07-01,Technology & Cloud,199037.1,Variable,Actual
+OP00111,2025-07-01,Marketing,205889.35,Fixed,Forecast
+OP00112,2025-07-01,Customer Support,94189.74,Variable,Actual
+OP00113,2025-07-01,General & Administrative,111309.75,Variable,Actual
+OP00114,2025-07-01,Payment Processing,55924.82,Variable,Forecast
+OP00115,2025-08-01,Content Licensing,431821.97,Variable,Forecast
+OP00116,2025-08-01,Technology & Cloud,157480.45,Variable,Forecast
+OP00117,2025-08-01,Marketing,194842.74,Variable,Actual
+OP00118,2025-08-01,Customer Support,97206.77,Variable,Actual
+OP00119,2025-08-01,General & Administrative,117054.89,Variable,Forecast
+OP00120,2025-08-01,Payment Processing,57839.56,Fixed,Actual
+OP00121,2025-09-01,Content Licensing,415590.53,Variable,Forecast
+OP00122,2025-09-01,Technology & Cloud,182333.35,Variable,Actual
+OP00123,2025-09-01,Marketing,218267.69,Variable,Actual
+OP00124,2025-09-01,Customer Support,106528.29,Variable,Forecast
+OP00125,2025-09-01,General & Administrative,115540.45,Fixed,Actual
+OP00126,2025-09-01,Payment Processing,49254.37,Fixed,Actual
+OP00127,2025-10-01,Content Licensing,390640.41,Variable,Actual
+OP00128,2025-10-01,Technology & Cloud,179431.99,Variable,Forecast
+OP00129,2025-10-01,Marketing,227693.89,Variable,Actual
+OP00130,2025-10-01,Customer Support,77370.86,Variable,Forecast
+OP00131,2025-10-01,General & Administrative,111153.59,Variable,Forecast
+OP00132,2025-10-01,Payment Processing,46179.88,Fixed,Actual
+OP00133,2025-11-01,Content Licensing,472788.01,Fixed,Forecast
+OP00134,2025-11-01,Technology & Cloud,181691.44,Variable,Forecast
+OP00135,2025-11-01,Marketing,226115.28,Variable,Actual
+OP00136,2025-11-01,Customer Support,104919.85,Variable,Actual
+OP00137,2025-11-01,General & Administrative,107553.23,Variable,Actual
+OP00138,2025-11-01,Payment Processing,58189.56,Variable,Forecast
+OP00139,2025-12-01,Content Licensing,363098.34,Variable,Actual
+OP00140,2025-12-01,Technology & Cloud,204487.58,Variable,Actual
+OP00141,2025-12-01,Marketing,234753.75,Fixed,Actual
+OP00142,2025-12-01,Customer Support,104032.96,Variable,Forecast
+OP00143,2025-12-01,General & Administrative,113777.94,Fixed,Actual
+OP00144,2025-12-01,Payment Processing,52364.63,Fixed,Actual
